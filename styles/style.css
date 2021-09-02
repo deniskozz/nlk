@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    margin: 0;
+    width: 100%;
+    min-height: 56px;
+    background-color: #343A40;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.container{
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.portfolio{
+    background-color: #E9ECEF;
+    padding-left: 50px; padding-bottom: 75px; padding-top:  60px;
+}
+
+.portfolio__title{
+    font-weight: 300;
+    font-size: 72px;
+    padding: 0;
+}
+
+.portfolio__descr{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0;
+}
+
+.btn-info{
+    font-weight: 400;
+    background-color: #007BFF;
+}
+
+.profile{
+    max-width: 100%;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    margin-left: 0;
+}
+
+table{
+    font-size: 16px;
+}
+
+.table__head{
+    font-style: normal;
+    font-weight: 400;
+}
+
+.profile__name{
+    font-size: 20px;
+}
+
+.block{
+    max-height: fit-content ;
+}
+
+.table__works{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.asd{
+    font-weight: 700;
+}
+
+footer{
+    background-color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+
+
+
+
